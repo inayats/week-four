@@ -48,15 +48,7 @@ Sample corpus ID = 9cc66a9fd10eb25e5622157c51b91b02
 
 <iframe style='width: 474px; height: 337px;' src='https://voyant-tools.org/tool/CorpusTerms/?corpus=9cc66a9fd10eb25e5622157c51b91b02'></iframe>
 
-# Building my own corpus
 
-The exercise had us downloading articles from the Chronicling America database. I used the suggestion to search for articles with "Canada" in them.
-
-* Use the Python script from week2 for accessing the Chronicling America API (link)[https://craftingdh.netlify.app/week/2/apis/]
-
-* Use the keyword "Canada"
-
-`'proxtext': 'archeology' # Search for this keyword  `
 
 # AntConc
 
